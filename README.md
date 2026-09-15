@@ -127,7 +127,7 @@ docker run -d --restart unless-stopped -p 8000:8000 sadeghhayeri/greentunnel
 
 ### Graphical Interface (GUI)
 
-Download the pre-built installer for your OS from the [releases](https://github.com/SadeghHayeri/GreenTunnel/releases) page.
+Download the pre-built installer for your OS from the [releases](https://github.com/G3ntl3ma/GreenTunnel-Previous/releases) page.
 
 ---
 
